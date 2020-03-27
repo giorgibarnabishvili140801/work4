@@ -1,0 +1,16 @@
+.table{
+    border: solid 2px;
+    width: 1000px;
+    margin: auto;
+}
+.table tbody td{
+    border: solid 2px;
+    width: 700px;
+    height: 50px;
+}
+.table thead th{
+    border: solid 2px black;
+    height: 100px;
+    text-align: left;
+ }
+ 

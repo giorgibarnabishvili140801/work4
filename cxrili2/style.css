@@ -1,0 +1,25 @@
+
+.table{
+    border: solid 2px;
+    width: 500px;
+    margin: auto;
+   }
+
+ .table tbody td{
+    border: solid 2px;
+    width: 700px;
+    height: 80px;
+
+    
+    
+   
+ }
+ 
+ .table thead th{
+    border: solid 2px black;
+ }
+ .meotxe{
+     height: 20px;
+     background-color: green;
+     border: solid 2px;
+ }
