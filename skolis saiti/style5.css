@@ -1,0 +1,28 @@
+.table{
+    border: solid 2px;
+    width: 1000px;
+    margin: auto;
+}
+.table tbody td{
+    border: solid 1px grey;
+    height: 25px;
+    background-color: grey;
+
+}
+.table thead th{
+    border: solid 2px black;
+    height: 100px;
+    text-align: left;
+    background: linear-gradient(to right,white,darkblue);
+ }
+ .meeqvse{
+    height: 500px;    
+ }
+ .tb{
+     width:200px ;
+ }
+ .ilia{
+     padding-left: 30px
+ }
+
+ 
